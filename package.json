@@ -1,0 +1,12 @@
+{
+  "name": "twitter-app",
+  "version": "1.0.0",
+  "description": "Mandrillus Tweets, the Twitter clone!",
+  "main": "src/app.js",
+  "repository": "https://github.com/leandrown",
+  "author": "Leandro Vieira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
